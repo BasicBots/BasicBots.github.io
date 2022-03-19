@@ -22,7 +22,7 @@ body {
  }
 
  .login-btn {
-     border: 2px solid #5ce1e6 !important;
+     border: 2px solid #ff5757 !important;
      font-size: 10px !important;
  }
  .login-btn:hover {
@@ -79,7 +79,7 @@ body {
     text-align: center !important;
     background: #ff5757 !important;
     padding: 60px 50px !important;
-    background-image: url("../assets/wavy-dark-by-nouridio.svg") !important;
+    background-image: url("../assets/wavy-blue-by-nouridio.svg") !important;
     background-position: bottom !important;
     background-size: 200% !important;
     background-repeat: no-repeat !important;
