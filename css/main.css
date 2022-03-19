@@ -182,7 +182,7 @@ color: rgba(255, 255, 255, 0.46) !important
 .footer {
     text-align: center !important;
     padding: 5px 6px !important;
-    color: #000000;
+    color: #ffffff;
     padding: 30px 30px !important
 }
 
@@ -203,5 +203,5 @@ color: rgba(255, 255, 255, 0.46) !important
 
 .footer .bot-footer {
     text-align: center !important;
-    color: #000000 !important
+    color: #ffffff !important
 }
