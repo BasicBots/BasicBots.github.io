@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif !important;
-    background-color: #1D1E28;
+    background-color: #212121;
     color: #fff;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -17,7 +17,7 @@ body {
  }
  .nav-link:hover {
      background: transparent !important;
-     color: #5ce1e6 !important;
+     color: #ff5757 !important;
      font-weight: bold !important;
  }
 
@@ -26,7 +26,7 @@ body {
      font-size: 10px !important;
  }
  .login-btn:hover {
-     background: #5ce1e6 !important;
+     background: #ff5757 !important;
  }
 .navbar {
     box-shadow: none !important
@@ -48,10 +48,10 @@ body {
 }
 
 .btn-primary {
-    background-color: #5ce1e6!important
+    background-color: #ff5757 !important
 }
 .btn-secondary {
-    background-color: #2C2F33 !important
+    background-color: #4f4f4f !important
 }
 .heading {
     padding: 160px 50px !important;
@@ -77,7 +77,7 @@ body {
 
 .features {
     text-align: center !important;
-    background: #5ce1e6 !important;
+    background: #ff5757 !important;
     padding: 60px 50px !important;
     background-image: url("../assets/wavy-dark-by-nouridio.svg") !important;
     background-position: bottom !important;
@@ -92,7 +92,7 @@ body {
 
 .features .subtitle {
     font-size: 20px !important;
-    color: #a2a8bd;
+    color: #ffffff;
 }
 
 .features .card-body {
@@ -114,7 +114,7 @@ body {
 .card-title {
     font-size: 28px !important;
     font-weight: 600 !important;
-    color: #5ce1e6 !important;
+    color: #ff5757 !important;
 }
 
 .statistics {
@@ -182,7 +182,7 @@ color: rgba(255, 255, 255, 0.46) !important
 .footer {
     text-align: center !important;
     padding: 5px 6px !important;
-    color: #ecf2ff;
+    color: #000000;
     padding: 30px 30px !important
 }
 
@@ -197,11 +197,11 @@ color: rgba(255, 255, 255, 0.46) !important
 }
 
 .footer .nouridio a {
-    color: #5ce1e6F !important;
+    color: #ff5757 !important;
     text-decoration: none !important;
 }
 
 .footer .bot-footer {
     text-align: center !important;
-    color: #a2a8bd !important
+    color: #000000 !important
 }
