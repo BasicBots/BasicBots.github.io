@@ -68,6 +68,12 @@ body {
     font-size: 36px !important
 }
 
+.secondtitle {
+    line-height: 90px !important;
+    margin-bottom: -2px !important;
+    font-size: 24px !important
+}
+
 .subtitle {
     color: rgba(255, 255, 255, 0.685) !important;
     font-size: 16px !important;
@@ -86,6 +92,11 @@ body {
 }
 .features .title {
     font-size: 40px !important;
+    color: #ffffff !important;
+    line-height: 70px !important;
+}
+.features .secondtitle {
+    font-size: 30px !important;
     color: #ffffff !important;
     line-height: 70px !important;
 }
